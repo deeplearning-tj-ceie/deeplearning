@@ -1,2 +1,3 @@
 ## Notes
-notes.pdf
+notes.pdf  
+finish date: 2020.4.22  
